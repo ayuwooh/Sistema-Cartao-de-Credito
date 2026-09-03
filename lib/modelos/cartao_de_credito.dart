@@ -1,3 +1,5 @@
+import 'modelos/compra.dart';
+
 class CartaoDeCredito {
   final double _limite;
   double _saldoDisponivel;
